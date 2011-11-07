@@ -8,8 +8,5 @@
     <dependency>profile-plone.app.tiles:default</dependency>
     <dependency>profile-plone.app.standardtiles:default</dependency>
     <dependency>profile-plone.app.cmsui:default</dependency>
-    
-    <!-- BBB: Remove once we don't need BBB anymore -->
-    <dependency>profile-plone.app.deco:z_bbb</dependency>
   </dependencies>
 </metadata>
