@@ -9,11 +9,6 @@
     <!-- Resources -->
     
     <plone:static
-        type="sitelayout"
-        name="default"
-        directory="static/sitelayout"
-        />
-    <plone:static
         type="pagelayout"
         name="default"
         directory="static/pagelayout"
