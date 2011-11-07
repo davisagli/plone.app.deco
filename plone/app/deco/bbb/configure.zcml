@@ -11,14 +11,6 @@
          should not be in place when using plone.app.deco
       -->
 
-    <browser:page
-        name="kss_z3cform_inline_validation"
-        for="plone.app.page.interfaces.IPage"
-        class=".disablekss.NullFormValidation"
-        attribute="validate_input"
-        permission="zope2.View"
-        />
-    
     <cmf:registerDirectory name="skins"
         directory="skins"
         recursive="true" />
