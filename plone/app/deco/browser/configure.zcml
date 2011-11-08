@@ -8,12 +8,6 @@
     
     <!-- Resources -->
     
-    <plone:static
-        type="pagelayout"
-        name="default"
-        directory="static/pagelayout"
-        />
-    
     <browser:resourceDirectory
         name="plone.app.deco.stylesheets"
         directory="stylesheets"
